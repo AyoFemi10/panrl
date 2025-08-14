@@ -1,0 +1,9 @@
+python-telegram-bot==20.0
+transformers==4.21.3
+chatterbot
+diffusers
+torch
+pip install pytube requests
+pytube 
+requests
+beautifulsoup4
